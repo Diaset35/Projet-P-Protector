@@ -32,4 +32,15 @@ include <LiquidCrystal.h>
 
 # Liste des composants
 
++ 1 Arduino UNO
++ 1 cable usb Arduino
++ 1 Bread Board
++ 1 Ecran LCD 16*2
++ 1 capteur de gaz MQ5
++ 1 resistance 2K
++ 1 potentiometre 3 broche
++ 19 cables male/male
++ 3 cables male/femelle
+
+
 
