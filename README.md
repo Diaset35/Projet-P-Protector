@@ -18,5 +18,5 @@ A venir ...
 
 # Schema montage
 
-![Station-m-t-o](Stationmeteo.jpg)
+![image](PPROTECT.jpg)
 
