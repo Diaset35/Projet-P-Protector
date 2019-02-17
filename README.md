@@ -1,5 +1,7 @@
 # Projet-P-Protector
 
+@Diaset35 @orokronos
+
 ## synopsis
 
 Et pourquoi ça pue ?
